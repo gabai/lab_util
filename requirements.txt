@@ -3,11 +3,7 @@ ipyvuetify>=0.1.9
 voila-vuetify>=0.0.1a6
 bqplot
 numpy
-os
 pandas
-bqplot
-pyplot
-ipywodgets
+ipywidgets
 datetime
-matplotlib
-plotly
+plotly.express
