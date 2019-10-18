@@ -7,7 +7,7 @@ os
 pandas
 ipywidgets
 datetime
-matplotlib
+matplotlib.pyplot
 plotly
 plotly.express
 plotly.graph_objects
