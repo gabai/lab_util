@@ -3,7 +3,11 @@
         "enable_nbextensions": true,
         "extension_language_mapping": {
             ".py": "python",
-            ".jl": "julia"
+            ".jl": "julia",
+            ".pd": "pandas",
+            ".np": "numpy",
+            ".px": "plotly.express",
+            ".pyplt": "bqplot"
         },
         "language_kernel_mapping": {
             "python": "python3"
