@@ -7,9 +7,8 @@
             ".pd": "pandas",
             ".np": "numpy",
             ".px": "plotly.express",
-            ".pyplt": "bqplot",
-            ".widgets": "ipywidgets",
-            "matplt": "matplotlib.pyplot"
+            ".plt": "bqplot",
+            ".widgets": "ipywidgets"
         },
         "language_kernel_mapping": {
             "python": "python3"
