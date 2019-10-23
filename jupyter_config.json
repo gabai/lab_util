@@ -8,7 +8,8 @@
             ".np": "numpy",
             ".px": "plotly.express",
             ".plt": "bqplot",
-            ".widgets": "ipywidgets"
+            ".widgets": "ipywidgets",
+            ".go": "plotly.graph_objects"
         },
         "language_kernel_mapping": {
             "python": "python3"
