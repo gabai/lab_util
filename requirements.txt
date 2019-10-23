@@ -6,5 +6,5 @@ numpy
 pandas
 ipywidgets
 datetime
+plotly
 plotly.express
-plotly.graph_objects
